@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NYTArticle</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">Enter search query</string>
+    <string name="search">search</string>
+    <string name="title_activity_article">ArticleActivity</string>
+    <string name="action_sort">sort</string>
+    <string name="action_search">search</string>
+    <string name="date">Begin Date</string>
+    <string name="sort">Sort Order</string>
+    <string name="news_desk_value">News Desk Values</string>
+    <string name="arts">Arts</string>
+    <string name="fashion"><![CDATA[Fashion & Style]]></string>
+    <string name="sports">Sports</string>
+    <string name="save">Save</string>
+    <string name="title_activity_sort">Setting</string>
+    <string name="sort_order">Oldest</string>
+</resources>
